@@ -15,3 +15,7 @@ Role model:
 My role model is my colleague .
 Her name is harini,she currently works in IT company located in hyderabad with high salary.
 she is my role model because she got placed in 3rd during her semester exam.
+About sir :
+thank you so much sir for guiding me to use github
+I need some help to learn python program and practice python program
+
