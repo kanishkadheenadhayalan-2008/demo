@@ -3,19 +3,22 @@ I completed my highersecondary in sai vidhya nikethan matric higher secondary sc
 I decide to choose B.E.CSE in kgisl institute of technology.
 My wish is to place in good it company with high salary.
 I am from biology background,so I am trying to learn basics in computer science.
-Recently I .watch some youtube channel to learn python coding .
-I do'nt no the best source to learn python program.
-I do'nt  know the best platform to practice problem solving and coding
+Recently I watch some youtube channel to learn python coding .
+I am struggling to know the best source to learn python program.
+Still I  did not get the best platform to practice problem solving and coding
 Family details:
-My father name is dheenadhayalan, he is doing buisness.
+My father name is dheenadhayalan, he is doing business.
 My mother name is pangajavalli,she works as a manager in ramnarayan mills.
-my sister name is keerthana ,he is currently studing 11th standard.
-my parents wish is to achieve something in the society.
+my sister name is keerthana she is currently studing 11th standard.
+I am from middle background , my parents wish is, myself to achieve something great in the society
 Role model:
 My role model is my colleague .
-Her name is harini,she currently works in IT company located in hyderabad with high salary.
-she is my role model because she got placed in 3rd during her semester exam.
+Her name is harini,she currently works in IT company located in hyderabad with high salary
+she placed in IT while studying 3rd year in her college.
+she is my role model beacause she put lots of hardwork and spent more time for coding without any distraction.
 About sir :
-thank you so much sir for guiding me to use github
-I need some help to learn python program and practice python program
-
+thank you so much sir for guiding me to know and use some software
+I understand whatever the topic you took sir.
+I had lots of doubts while doing some task sir ,but you explain slowly and step by step and clear it sir .
+sir I need your help to know the source to learn and practice python program and problem solving
+Thank you sir.
