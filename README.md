@@ -11,3 +11,7 @@ My father name is dheenadhayalan, he is doing buisness.
 My mother name is pangajavalli,she works as a manager in ramnarayan mills.
 my sister name is keerthana ,he is currently studing 11th standard.
 my parents wish is to achieve something in the society.
+Role model:
+My role model is my colleague .
+Her name is harini,she currently works in IT company located in hyderabad with high salary.
+she is my role model because she got placed in 3rd during her semester exam.
