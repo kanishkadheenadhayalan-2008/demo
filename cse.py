@@ -1,1 +1,0 @@
-print("kanshka.D")
