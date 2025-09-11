@@ -22,3 +22,11 @@ I understand whatever the topic you took sir.
 I had lots of doubts while doing some task sir ,but you explain slowly and step by step and clear it sir .
 sir I need your help to know the source to learn and practice python program and problem solving
 Thank you sir.
+#############################################################################
+
+Kanishka —
+
+First, congratulations on the strong 92.8% in your 12th — that shows you already have discipline and the ability to learn hard things. 
+It’s perfectly okay that you come from a biology background; many successful engineers began exactly where you are now. 
+Your interest in Python and problem-solving is the most important thing — that curiosity will carry you a long way. 
+I’m proud to have you in class and I’ll support you step-by-step so you gain confidence and skill in programming.
